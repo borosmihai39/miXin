@@ -1,0 +1,6 @@
+.flex {
+  display: flex;
+}
+header, main{
+  border: 1px solid black;
+}
